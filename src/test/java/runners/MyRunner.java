@@ -12,7 +12,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = {"src/test/resources/features/aprender_cucumber.feature",
         "src/test/resources/features/prazo.feature",
-        "src/test/resources/features/Ticket.feature"},
+        "src/test/resources/features/Ticket.feature",
+        "src/test/resources/features/prazo_transform.feature"},
         glue = {"steps"},
         plugin = "pretty"
         )
