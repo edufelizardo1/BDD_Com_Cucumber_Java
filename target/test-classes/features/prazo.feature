@@ -1,4 +1,5 @@
 # language:pt
+@Prazo
 Funcionalidade: Prazo de Entrega
   Como consumidor
   Eu quero inofrmar a data de compra
