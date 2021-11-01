@@ -10,7 +10,10 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-
+/**
+ * @author edufelizardo1@gmail.com
+ * @version 1.0.0
+ */
 public class PrazoSteps {
     Date date = new Date();
 
