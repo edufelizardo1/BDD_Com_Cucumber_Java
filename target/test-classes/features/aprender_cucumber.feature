@@ -1,4 +1,5 @@
 # language: pt
+@AprenderCucumber
 Funcionalidade: Aprender Cucumber
   Como um aluno
   Eu quero aprender a ultilizar Cucumber
