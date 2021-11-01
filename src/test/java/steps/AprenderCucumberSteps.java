@@ -4,7 +4,10 @@ import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Então;
 import cucumber.api.java.pt.Quando;
 import org.junit.Assert;
-
+/**
+ * @author edufelizardo1@gmail.com
+ * @version 1.0.0
+ */
 public class AprenderCucumberSteps {
     @Dado("^que creie o arquivo corretamente$")
     public void queCreieOArquivoCorretamente() {
