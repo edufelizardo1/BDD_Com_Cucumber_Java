@@ -1,4 +1,5 @@
 # language: pt
+@Ticket
 Funcionalidade: Passagem
   Como emissor de passagens
   Quero poder registrar os numeros dos tickts
