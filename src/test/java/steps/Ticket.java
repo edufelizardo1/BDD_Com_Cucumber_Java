@@ -1,10 +1,12 @@
 package steps;
 
-import cucumber.api.PendingException;
 import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Então;
 import cucumber.api.java.pt.Quando;
-
+/**
+ * @author edufelizardo1@gmail.com
+ * @version 1.0.0
+ */
 public class Ticket {
     @Dado("^que o ticket é (A.\\d{3})$")
     public void queOTicketÉAF(String arg0) {
