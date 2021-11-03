@@ -3,7 +3,6 @@ package steps;
 import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Então;
 import cucumber.api.java.pt.Quando;
-import gherkin.lexer.Ca;
 import org.junit.Assert;
 
 import java.text.DateFormat;
